@@ -1,5 +1,3 @@
-//Sajjad Aemmi
-
 #include<iostream>
 #include<conio.h>
 #include<Windows.h>
@@ -474,7 +472,5 @@ void init()
 void main()
 {
 	system("color 0b");
-
 	init();
 }
-//Sajjad Aemmi
